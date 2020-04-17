@@ -665,13 +665,13 @@
 	],
 	"variable": [
 		{
-			"id": "528449c0-b4ab-415f-86ec-1b2745a35533",
+			"id": "3b8bcb0c-0d7b-494b-b031-c5697ee8bbfd",
 			"key": "host",
 			"value": "localhost:5000",
 			"type": "string"
 		},
 		{
-			"id": "1d10d61e-fb19-4236-ae0d-1ef453d2032b",
+			"id": "1f279ffb-9729-4eb1-bf41-acf1afac8ec6",
 			"key": "Autjorization",
 			"value": "",
 			"type": "string",
